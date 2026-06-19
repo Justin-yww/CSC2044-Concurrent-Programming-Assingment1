@@ -1,4 +1,4 @@
-# CSC2044 Assignment 1 — Concurrent Bank Account Transaction System
+# CSC2044 Assignment 1 — Bank Account Transaction System
 
 Four Java programs that simulate how a bank account is accessed by multiple concurrent users, built to demonstrate concurrency, synchronisation, and race condition behaviour.
 
