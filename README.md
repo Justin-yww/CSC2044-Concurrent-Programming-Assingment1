@@ -28,6 +28,19 @@ This project contains four programs that isolate key concurrent programming conc
 - Java JDK 11 or higher
 - Any IDE (Integrated Development Environment)
 
+### Steps to Download Program
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Justin-yww/CSC2044-Concurrent-Programming-Assingment1.git
+cd CSC2044-Concurrent-Programming-Assingment1
+```
+
+2. **Verify the files are present:**
+```bash
+ls *.java
+```
+
 ### Compilation
 
 ```bash
